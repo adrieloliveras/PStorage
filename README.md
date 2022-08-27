@@ -66,25 +66,11 @@ The source code is available under the [GPLv3 license](https://github.com/gocari
 
 ## Nota Bene
 I only tested this homebrew with Pokémon Alpha Sapphire on a cartridge on a n3ds.
-Not cheat, no kidding.
+Not cheat, no kidding. Besides this being a fork, I'm also stupid.
 
 ## Credits
-Thanks to [suloku](https://github.com/suloku) for all his work on the project.
-
-Thanks to [Kaphotics](https://github.com/kwsch) & [Asia81](https://github.com/Asia81) (and [PKHex](https://github.com/kwsch/PKHeX)'s contributors) for the save functions (offset, algorithms) and the data (personal, text).
-
-Thanks to [Slashcash](https://github.com/Slashcash) & [Stracker](https://github.com/Strackeror) (and [PCHex](https://github.com/Strackeror/PCHex)/[PCHex++](https://github.com/Slashcash/PCHex-plusplus)'s contributors) for their help.
-
-Thanks to @Xenosaiga and [ihaveamac](https://github.com/ihaveamac) for being the cia build.
-
-Thanks to [xerpi](https://github.com/xerpi) (and [SF2D](https://github.com/xerpi/sf2dlib)/[SFTD](https://github.com/xerpi/sftdlib)/[SFIL](https://github.com/xerpi/sfillib)'s contributores) for the graphic library.
-
-Thanks to [profi200](https://github.com/profi200) and other people on #3dsdev who helped me.
-
-Thanks to [smealum](https://github.com/smealum) and [yellows8](https://github.com/yellows8) for the exploits and [ctrulib](https://github.com/smealum/ctrulib).
-
-Merci !
+Thanks to original creators!
 
 __Disclaimer: I'm not responsible if you lose or corrupt your save by using this homebrew. It mays contain bugs even within the normal intended use. Use it at your own risk.__
 
-****ALWAYS MAKE A BACKUP!**** __(Hold L while launching homebrew or/and use tvds/svdt/JKSM)__
+****ALWAYS MAKE A BACKUP!**** __(Just use Checkpoint)__
