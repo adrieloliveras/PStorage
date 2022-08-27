@@ -1,5 +1,5 @@
 
-# [Pokémon Storage] ##(https://gbatemp.net/threads/398718/)
+# [Pokémon Storage]
 
 Pokemon Storage is a homebrew which allows to manage a local bank for XY and ORAS Pokémon games, just like the Pokébank, but as a free offline service.
 This homebrew is just a storage solution.
