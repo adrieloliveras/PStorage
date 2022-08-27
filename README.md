@@ -1,8 +1,8 @@
 
-# [Pokémon Homebrew Bank​](https://gbatemp.net/threads/398718/)
+# [Pokémon Storage] ##(https://gbatemp.net/threads/398718/)
 
-PHBank is a homebrew which allows to manage a local bank for XY and ORAS Pokémon games, just like the Pokébank, but as a free offline service.
-This homebrew is not intended to cheat (not even cloning). It's just a storage solution.
+Pokemon Storage is a homebrew which allows to manage a local bank for XY and ORAS Pokémon games, just like the Pokébank, but as a free offline service.
+This homebrew is just a storage solution.
 
 The source code is available under the [GPLv3 license](https://github.com/gocario/PHBank/blob/master/LICENSE) on [github](https://github.com/gocario/PHBank), and the resources are available on [github](https://github.com/gocario/PKBrew) too.
 
@@ -26,14 +26,9 @@ The source code is available under the [GPLv3 license](https://github.com/gocari
 * The cia installer in /cia/PHBank.cia
 * The data files /pk/[DataFiles].
 
-## How to import from <= [v1.1.4-beta-a]:
-* Install PHBank normally, see above.
-* Copy the bank file from /pkbank/bank to /pk/bank/bank.
-* You can delete the /pkbank/ folder.
-
 ## Controls
 
-### Everywhere​
+### Everywhere
 * DPad/CPad: Move the cursor inbox, change box, change pc/bank.
 * L/R: Change the current box.
 * LZ/RZ: Switch from PC to Bank and vice versa (can be done with Pad and/or stylus too).
@@ -59,13 +54,14 @@ The source code is available under the [GPLv3 license](https://github.com/gocari
 * Y: Activate the box selector (TODO: transform it as a button on screen).
 
 ## Todo List
+* Add SM/USUM support
 * Wonder box ;)
 * Display more specific information per Pokémon (Tabs for contest/met/etc).
 * Enhance more the GUI.
 * When moving Pokémon with the DPad/A, switch the held Pokémon.
 
-## Nota Bene
-I only tested this homebrew with Pokémon Alpha Sapphire on a cartridge on a n3ds.
+## Note
+Original Project was only tested with Pokémon Alpha Sapphire on a cartridge on a n3ds.
 Not cheat, no kidding. Besides this being a fork, I'm also stupid.
 
 ## Credits
